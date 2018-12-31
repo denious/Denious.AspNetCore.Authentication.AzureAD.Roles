@@ -1,0 +1,1 @@
+# Denious.AspNetCore.Authentication.AzureAD.Roles
